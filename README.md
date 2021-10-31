@@ -1,2 +1,2 @@
-# Pattern_recognition
-模式识别
+# Data_mining
+数据挖掘
